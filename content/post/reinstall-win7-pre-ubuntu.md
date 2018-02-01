@@ -1,6 +1,6 @@
 ---
 title: 重灌Win7＆安裝Ubuntu前的準備
-date: 2017-11-21 19:48:55
+date: 2017-11-21T19:48:55+08:00
 tags: []
 categories: ['筆記']
 topics: ['筆記']

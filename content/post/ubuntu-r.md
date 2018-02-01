@@ -1,6 +1,6 @@
 ---
 title: Ubuntu-R語言
-date: 2017-11-22 02:42:51
+date: 2017-11-22T02:42:51+08:00
 tags: []
 categories: ['筆記']
 topics: ['筆記']

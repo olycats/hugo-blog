@@ -1,6 +1,6 @@
 ---
 title: Ubuntu設定hotspot
-date: 2017-11-21 22:02:45
+date: 2017-11-21T22:02:45+08:00
 tags: []
 categories: ['筆記']
 topics: ['筆記']

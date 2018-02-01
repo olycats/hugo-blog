@@ -1,6 +1,6 @@
 ---
 title: hexo on Github pages
-date: 2017-11-23 15:52:30
+date: 2017-11-23T15:52:30+08:00
 tags: []
 categories: ['筆記']
 topics: ['筆記']

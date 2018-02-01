@@ -1,6 +1,6 @@
 ---
 title: 在Double A打工的日子（下）
-date: 2018-01-08 22:49:19
+date: 2018-01-08T22:49:19+08:00
 tags: []
 categories: ['工作回憶錄']
 topics: ['工作回憶錄']

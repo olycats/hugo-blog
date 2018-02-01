@@ -1,6 +1,6 @@
 ---
 title: Ubuntu/Windows7雙系統
-date: 2017-11-21 20:24:07
+date: 2017-11-21T20:24:07+08:00
 tags: []
 categories: ['筆記']
 topics: ['筆記']

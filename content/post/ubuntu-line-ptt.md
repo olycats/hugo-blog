@@ -1,6 +1,6 @@
 ---
 title: 在Ubuntu使用line、ptt
-date: 2017-11-22 02:42:40
+date: 2017-11-22T02:42:40+08:00
 tags: []
 categories: ['筆記']
 topics: ['筆記']

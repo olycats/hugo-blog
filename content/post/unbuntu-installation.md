@@ -1,6 +1,6 @@
 ---
 title: Ubuntu安裝、基本設定
-date: 2017-11-21 20:10:55
+date: 2017-11-21T20:10:55+08:00
 tags: []
 categories: ['筆記']
 topics: ['筆記']

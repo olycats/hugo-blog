@@ -1,6 +1,6 @@
 ---
 title: 在Ubuntu安裝skype
-date: 2017-12-06 22:40:49
+date: 2017-12-06T22:40:49+08:00
 tags: []
 categories: ['筆記']
 topics: ['筆記']
