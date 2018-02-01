@@ -1,4 +1,4 @@
-baseURL = "https://olycats.github.io/"
+baseURL = "https://olycats.com/"
 languageCode = "en-us"
 title = "olycats' blog"
 theme = "blackburn"
@@ -20,7 +20,7 @@ canonifyurls = true
 paginate = 10
 
 [params]
-  subtitle = "Personal Blog"
+  subtitle = ""
   brand = "olycats"
   googleAnalytics = "UA-110628235-1" #Your Google Analytics tracking ID
 
