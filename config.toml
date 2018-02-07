@@ -1,4 +1,4 @@
-baseURL = "https://olycats.com/"
+baseURL = "http://olycats.com/"
 languageCode = "en-us"
 title = "olycats' blog"
 theme = "blackburn"
